@@ -8,9 +8,13 @@
 
 <p align="center">
   <a href="https://buraktas.online"><b>buraktas.online</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@burakbuilds1"><b>YouTube</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/br0think"><b>X</b></a>
+  &nbsp;·&nbsp;
   <a href="https://aurelionlabs.digital"><b>AurelionLabs</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;·&nbsp;
   <a href="https://www.upwork.com/freelancers/~01037d26d993c938e9"><b>Upwork</b></a>
 </p>
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.jpg" width="100%" alt="Burak Taş — biosystems engineering, computer vision, and agritech">
+  <img src="./assets/banner.png" width="100%" alt="Burak Taş — biosystems engineering, computer vision, and agritech">
 </p>
 
 <h3 align="center">Biosystems & Agricultural Engineer building practical AI for agriculture 🌱</h3>

@@ -2,67 +2,55 @@
   <img src="./assets/header.jpg" width="100%" alt="Burak Taş — biosystems engineering, computer vision, and agritech">
 </p>
 
+<h3 align="center">Biosystems & Agricultural Engineer building practical AI for agriculture 🌱</h3>
+
 <p align="center">
-  <a href="https://buraktas.online"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@burakbuilds1"><strong>YouTube</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/br0think"><strong>X</strong></a>
+  Computer vision · Remote sensing · Edge AI · Open source
 </p>
 
-## Burak Taş
+### 🏆 Highlights
 
-I am a biosystems and agricultural engineer building reproducible software for
-plant monitoring, remote sensing, and autonomous agricultural systems.
+- 🌾 **Agricultural domain expertise** — turning plant, field, and sensor data into practical engineering tools.
+- 🛰️ **Agritech builder** — developing explainable workflows for crop monitoring, satellite time series, and autonomous systems.
+- 🤝 **Open-source contributor** — contributing focused tests, tooling, and fixes to scientific Python and geospatial projects.
 
-My work sits at the intersection of **Python, computer vision, earth
-observation, and edge hardware**. I care about systems that remain useful
-outside a demo: explicit assumptions, measurable uncertainty, tests, and
-documentation are part of the product.
+### 💻 Tech Stack & Field Tools
 
-Current focus:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/Earth_Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white" alt="Google Earth Engine">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-- plant phenotyping and vegetation indices with Python and OpenCV;
-- satellite time-series analysis for agricultural decisions;
-- offline-first sensing and control with ESP32 and LoRa; and
-- contributing domain knowledge, tests, and documentation to scientific OSS.
+### 📊 Current Focus
 
-## Open source
+- 🔭 **Building:** [HasadHaber](https://github.com/BuraakAI/harvest_time_estimate), an explainable satellite time-series prototype for estimating winter-wheat harvest windows.
+- 🌱 **Exploring:** plant phenotyping, vegetation indices, and agricultural computer vision with Python and OpenCV.
+- ⚙️ **Prototyping:** offline-first sensing and control systems with ESP32, Arduino, and LoRa.
+- 🤝 **Contributing:** test-backed improvements to scientific Python, geospatial, and imaging projects.
 
-- **Maintainer — [HasadHaber](https://github.com/BuraakAI/harvest_time_estimate):**
-  an explainable satellite time-series prototype for estimating winter-wheat
-  harvest windows. Includes an offline demo, Earth Engine adapter, backtesting,
-  automated tests, and a contributor-ready workflow.
-- **Contributor — [PlantCV](https://github.com/danforthcenter/plantcv):**
-  [GNDVI spectral-index support](https://github.com/danforthcenter/plantcv/pull/2015)
-  is under review, with numerical tests, API documentation, and a correction
-  that distinguishes GDVI from GNDVI.
+### 🚜 Featured Work
 
-I am especially interested in well-scoped issues involving plant image
-analysis, spectral indices, geospatial data, test coverage, and scientific
-documentation.
+- **[HasadHaber](https://github.com/BuraakAI/harvest_time_estimate)** — explainable harvest-window estimation using Sentinel-1/2 time series and Google Earth Engine.
+- **[SeraOS](https://buraktas.online/#projeler)** — offline-first sensing and control for autonomous plant care.
+- **[AgriVision](https://buraktas.online/#projeler)** — computer-vision quality control and robotic sorting for agricultural products.
 
-## Selected engineering work
+### 📫 Let's Connect
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| **[HasadHaber](https://github.com/BuraakAI/harvest_time_estimate)** | Explainable harvest-window estimation from satellite time series | Python, Streamlit, Earth Engine, Sentinel-1/2 |
-| **[SeraOS](https://buraktas.online/#projeler)** | Offline-first sensing and control for autonomous plant care | ESP32, sensors, actuators, LoRa |
-| **[AgriVision](https://buraktas.online/#projeler)** | Computer-vision quality control and robotic sorting | Python, OpenCV, embedded systems |
-| **[Tarımda Terminal](https://buraktas.online/#projeler)** | Solar-powered field telemetry across large agricultural areas | Arduino, LoRa, sensor networks |
+<p>
+  <a href="https://buraktas.online"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.youtube.com/@burakbuilds1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://x.com/br0think"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.threads.com/@burak.sto"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
+</p>
 
-## Tools I use
-
-`Python` · `OpenCV` · `NumPy` · `pandas` · `SciPy` · `Google Earth Engine` ·
-`ESP32 / Arduino` · `C/C++` · `TensorFlow Lite` · `LoRa / IoT` · `Git`
-
-## Collaboration
-
-If you maintain an open-source project in plant science, agricultural imaging,
-remote sensing, or edge AI, feel free to open a discussion or point me to a
-focused issue. I am happy to contribute code, tests, documentation, and domain
-review.
+### 📈 GitHub Stats
 
 <p align="center">
-  <sub>Biosystems engineering × open source × practical agriculture</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=BuraakAI&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Burak's GitHub stats">
 </p>

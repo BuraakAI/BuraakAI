@@ -49,9 +49,3 @@
   <a href="https://x.com/br0think"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.threads.com/@burak.sto"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
 </p>
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BuraakAI&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Burak's GitHub stats">
-</p>
